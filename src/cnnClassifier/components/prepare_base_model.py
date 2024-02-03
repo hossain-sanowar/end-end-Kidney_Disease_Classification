@@ -1,4 +1,4 @@
-# download the VGG16 model
+# prepare based model download the VGG16 model
 
 import os
 import urllib.request as request
