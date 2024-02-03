@@ -1,0 +1,7 @@
+artifacts_root: artifacts #create artifacts folder for showing datasets or storing datasets
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion #create data_ingestion folder inside the artifacts folder
+  source_URL: https://drive.google.com/file/d/13uWZZ1nhijwqJfg4hCvgNfpm7RSLi9LM/view?usp=sharing
+  local_data_file: artifacts/data_ingestion/data.zip #download zip file from google storage and download in data_ingestion folder
+  unzip_dir: artifacts/data_ingestion #data unzip in data_ingestion folder

@@ -7,7 +7,7 @@ This is end to end Kidney Disease Classification project where I have used MLOps
 ## Workflows
 
 1. Update config.yaml
-2. Update secrets.yaml [Optional]
+2. Update secrets.yaml [Optional] #secret information like database, username, password
 3. Update params.yaml
 4. Update the entity
 5. Update the configuration manager in src config
